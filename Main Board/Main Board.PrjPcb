@@ -187,7 +187,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FIUYDYSS
 
 [Document9]
-DocumentPath=PCB2.PcbDoc
+DocumentPath=MainBoardReference.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
