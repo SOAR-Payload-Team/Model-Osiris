@@ -119,6 +119,40 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
+DocumentPath=..\..\..\..\shaan\Downloads\EG1206\SW_EG1206.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DONHSGED
+
+[Document6]
+DocumentPath=..\..\..\..\shaan\Downloads\L102021ML04Q\SW_L102021ML04Q.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TLDDLYYD
+
+[Document7]
 DocumentPath=..\..\..\..\shaan\Downloads\LIB_STM32H747IGT6\STM32H747IGT6\Altium\QFP50P2600X2600X160-176N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +169,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document8]
+DocumentPath=..\..\..\..\shaan\Downloads\EG1206\EG1206.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NXIHSBAY
+
+[Document9]
+DocumentPath=..\..\..\..\shaan\Downloads\L102021ML04Q\L102021ML04Q.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VFBZTIBH
+
+[Document10]
 DocumentPath=..\..\..\..\shaan\Downloads\HW-20-16-L-D-250-SM-A-TR\HW-20-16-L-D-250-SM-A-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +220,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUEQUDSS
 
-[Document7]
+[Document11]
 DocumentPath=..\..\..\..\shaan\Downloads\LIB_STM32H747IGT6\STM32H747IGT6\Altium\STM32H747IGT6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +237,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARKFVMTE
 
-[Document8]
+[Document12]
 DocumentPath=MainBoard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,7 +254,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FIUYDYSS
 
-[Document9]
+[Document13]
 DocumentPath=MainBoardReference.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LGCWUWEY
 
-[Document10]
+[Document14]
 DocumentPath=Main Board.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -220,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document15]
 DocumentPath=..\..\..\..\shaan\Downloads\HW-20-16-L-D-250-SM-A-TR\SAMTEC_HW-20-16-L-D-250-SM-A-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,6 +304,57 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document16]
+DocumentPath=Copy of PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RVYNJWML
+
+[Document17]
+DocumentPath=MainBoardCurrent.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KCADDBPQ
+
+[Document18]
+DocumentPath=Main Board.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NVWADZSB
 
 [Configuration1]
 Name=Sources
@@ -1244,7 +1363,7 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
