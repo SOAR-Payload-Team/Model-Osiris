@@ -1,8 +1,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: ExperimentBoard.PcbDoc   4/21/2024  1:40:32 AM
+NCDrill File Report For: ExperimentBoard.PcbDoc   4/21/2024  4:37:37 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Layer Pair : Top Copper to Bottom Copper
+Layer Pair : Top Layer to Bottom Layer
 ASCII RoundHoles File : ExperimentBoard.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
