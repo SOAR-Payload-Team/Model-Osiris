@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [MainBoardCurrent.PcbDoc]
+   Generated File[MainBoardCurrent.TXT]
+   Generated File[MainBoardCurrent-RectHoles.TXT]
+   Generated File[MainBoardCurrent.LDP]
+   Generated File[MainBoardCurrent.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:04:34 AM On 5/6/2024
