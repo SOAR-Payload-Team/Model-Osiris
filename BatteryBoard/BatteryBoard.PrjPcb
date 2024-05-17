@@ -61,64 +61,13 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJHNTGTK
 
 [Document2]
-DocumentPath=Assembly.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document3]
-DocumentPath=Documentation.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
-DocumentPath=Fabrication.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=BatteryBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +84,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJHOKYIJ
 
-[Document6]
+[Document3]
 DocumentPath=ActiveBOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,25 +101,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
-DocumentPath=BatteryBoard.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=..\..\..\Documents\AltiumLL\SamacSys.PcbLib
+[Document4]
+DocumentPath=..\..\AltiumLL\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -186,8 +118,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document9]
-DocumentPath=..\..\..\Documents\AltiumLL\SamacSys.SchLib
+[Document5]
+DocumentPath=..\..\AltiumLL\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -203,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document10]
+[Document6]
 DocumentPath=Components\Cover-Screwhole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -220,188 +152,89 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=BatteryBoard.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs\BatteryBoard.DRR
+DocumentPath=Project Outputs for Free Documents\NC Drill\BatteryBoard.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs\BatteryBoard.EXTREP
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs\BatteryBoard.GBL
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs\BatteryBoard.GBO
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs\BatteryBoard.GBP
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs\BatteryBoard.GBS
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs\BatteryBoard.GM1
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs\BatteryBoard.GM2
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs\BatteryBoard.GM3
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs\BatteryBoard.GM5
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs\BatteryBoard.GM13
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs\BatteryBoard.GM14
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs\BatteryBoard.GM15
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs\BatteryBoard.GPB
+DocumentPath=Project Outputs for Free Documents\NC Drill\BatteryBoard.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs\BatteryBoard.GPT
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.REP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs\BatteryBoard.GTL
+DocumentPath=Project Outputs for Free Documents\Gerber\BatteryBoard.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs\BatteryBoard.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs\BatteryBoard.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs\BatteryBoard.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs\BatteryBoard.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs\BatteryBoard.REP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs\BatteryBoard.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs\BatteryBoard.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs\PCB1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs\PCB1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs\PCB1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs\PCB1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs\PCB1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs\PCB1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs\PCB1.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs\PCB1.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs\PCB1.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs\PCB1.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs\PCB1.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs\PCB1.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs\PCB1.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs\PCB1.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs\PCB1.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs\PCB1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs\PCB1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs\PCB1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs\PCB1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs\PCB1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs\PCB1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs\PCB1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs\PCB1.TXT
+DocumentPath=Project Outputs for Free Documents\NC Drill\BatteryBoard.TXT
 DItemRevisionGUID=
 
 [Parameter1]
@@ -674,12 +507,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
