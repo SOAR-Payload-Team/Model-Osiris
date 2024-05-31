@@ -1,0 +1,8 @@
+../Core/Src/Barometric_Altimeter.cpp:13:9:uint8_t MS5611::init()	2
+../Core/Src/Barometric_Altimeter.cpp:24:6:void MS5611::read()	1
+../Core/Src/Barometric_Altimeter.cpp:32:9:uint8_t MS5611::readADCP()	1
+../Core/Src/Barometric_Altimeter.cpp:52:9:uint8_t MS5611::readADCT()	1
+../Core/Src/Barometric_Altimeter.cpp:73:6:void MS5611::readPROM()	2
+../Core/Src/Barometric_Altimeter.cpp:87:6:void MS5611::calculate()	6
+../Core/Src/Barometric_Altimeter.cpp:118:6:void MS5611::convertP()	6
+../Core/Src/Barometric_Altimeter.cpp:148:6:void MS5611::convertT()	6
