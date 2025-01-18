@@ -36,7 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
-ManagedProjectGUID=
+ManagedProjectGUID=0B89584E-2C8B-4661-9A2F-5E335B01671A
+VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2
+ReleaseVaultName=University of Calgary
+ItemGUID=0B89584E-2C8B-4661-9A2F-5E335B01671A
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=4830980F-7301-4511-8AE8-FA2B661EEC7E&ItemGUID=419A90EF-2329-464D-A5A6-44D0F42385C4&RevisionGUID=9FC3894E-6F03-4713-8AB1-2B285617BC2E&"MainFilename=PCB_Project1.PrjPCB"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
