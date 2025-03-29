@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=3V3 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=12V2 Pin=J3-2
+Removed Pin From Net: NetName=12V1 Pin=J3-3
+Removed Pin From Net: NetName=QSPI_BK1_IO3 Pin=U1-1
+Removed Pin From Net: NetName=3V3 Pin=U1-2
+Removed Pin From Net: NetName=QSPI_BK1_NCS Pin=U1-7
+Removed Pin From Net: NetName=QSPI_BK1_IO1 Pin=U1-8
+Removed Pin From Net: NetName=QSPI_BK1_IO2 Pin=U1-9
+Removed Pin From Net: NetName=GND Pin=U1-10
+Removed Pin From Net: NetName=QSPI_BK1_IO0 Pin=U1-15
+Removed Pin From Net: NetName=QSPI-CLK Pin=U1-16
+Removed Member From Class: ClassName=ExperimentBoard Member=C1
+Removed Member From Class: ClassName=ExperimentBoard Member=J3
+Removed Member From Class: ClassName=ExperimentBoard Member=U1
+Add Component: Footprint Not Found 2078430003
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Class Member: Failed to add class member : Component J8 207843-0003
+Added Member To Class: ClassName=ExperimentBoard Member=Component U4 LPS22HHTR

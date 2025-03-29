@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=OUT4 Pin=J5-1
+Removed Pin From Net: NetName=OUT2 Pin=J6-1
+Add Component: Footprint Not Found 2078430003
+Added Pin To Net: NetName=OUT2 Pin=J5-1
+Added Pin To Net: NetName=OUT4 Pin=J6-1
+Add Pin To Net: Unknown Pin: Pin J8-1
+Change Net Name : Old Net Name=OUT2 New Net Name=OUT4
+Change Net Name : Old Net Name=OUT4 New Net Name=OUT2
+Add Class Member: Failed to add class member : Component J8 207843-0003

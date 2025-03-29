@@ -1,0 +1,7 @@
+Remove Pin=J8-1 From Net=GPIO PB4
+Remove Pin=U1-1 From Net=QSPI_BK1_IO3
+Remove Pin=U1-7 From Net=QSPI_BK1_NCS
+Remove Pin=U1-8 From Net=QSPI_BK1_IO1
+Remove Pin=U1-9 From Net=QSPI_BK1_IO2
+Remove Pin=U1-15 From Net=QSPI_BK1_IO0
+Remove Pin=U1-16 From Net=QSPI-CLK

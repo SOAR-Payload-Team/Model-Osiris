@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3 Pin=U2-8
+Add Component: Footprint Not Found 1608[0603]
+Add Pin To Net: Unknown Pin: Pin C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U2-8
+Added Net: Name=NetC1_2
+Add Class Member: Failed to add class member : Component C1 0.1uF

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=12V1 Pin=J1-13
+Removed Pin From Net: NetName=12V1 Pin=J1-15
+Removed Pin From Net: NetName=12V1 Pin=J1-17
+Removed Pin From Net: NetName=12V2 Pin=J2-20
+Removed Pin From Net: NetName=12V2 Pin=J2-22
+Removed Pin From Net: NetName=12V2 Pin=J2-24
+Add Component: Footprint Not Found 2078430003
+Add Pin To Net: Unknown Pin: Pin J8-1
+Added Member To Class: ClassName=ExperimentBoard Member=Component J7 284415-2
+Add Class Member: Failed to add class member : Component J8 207843-0003

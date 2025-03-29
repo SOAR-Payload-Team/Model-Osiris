@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GPIO PB5 Pin=R6-2
+Removed Pin From Net: NetName=UART4-RX Pin=R9-2
+Add Component: Footprint Not Found 2078430003
+Add Pin To Net: Unknown Pin: Pin J8-1
+Added Pin To Net: NetName=UART4-RX Pin=R6-2
+Added Pin To Net: NetName=UART4-TX Pin=R9-2
+Add Class Member: Failed to add class member : Component J8 207843-0003

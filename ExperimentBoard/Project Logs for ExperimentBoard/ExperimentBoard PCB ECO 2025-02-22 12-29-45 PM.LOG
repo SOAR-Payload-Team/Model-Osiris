@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=12V1 Pin=J3-3
+Removed Pin From Net: NetName=12V1 Pin=J7-1
+Removed Pin From Net: NetName=UART5-RX Pin=U2-4
+Removed Pin From Net: NetName=GPIO PA15 Pin=U2-9
+Add Component: Footprint Not Found 2078430003
+Added Pin To Net: NetName=12V1 Pin=J3-2
+Add Pin To Net: Unknown Pin: Pin J8-1
+Added Pin To Net: NetName=GPIO PA15 Pin=U2-4
+Added Pin To Net: NetName=UART5-RX Pin=U2-9
+Change Net Name : Old Net Name=12V1 New Net Name=12V2
+Added Pin To Net: NetName=12V1 Pin=J3-3
+Added Pin To Net: NetName=12V1 Pin=J7-1
+Added Net: Name=12V1
+Add Class Member: Failed to add class member : Component J8 207843-0003
+Added Member To Class: ClassName=ExperimentBoard Member=Component U2 LSM6DSO32TR
