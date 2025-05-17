@@ -2,28 +2,57 @@
 FileName = ExperimentBoard.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 16
-      File : ExperimentBoard.GM16
+Generating : Bottom Mask
+      File : ExperimentBoard.GBS
 
-    Adding Layer      : Mechanical 16
+    Adding Layer      : Bottom Mask
 
+    Adding Layer      : Bottom Layer
 
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 40
-      File : ExperimentBoard.GM40
-
-    Adding Layer      : Mechanical 40
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
 *************************************************************
 
 *************************************************************
-Generating : Multi-Layer
-      File : ExperimentBoard.GML
+Generating : Bottom Overlay
+      File : ExperimentBoard.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : GND Layer
+      File : ExperimentBoard.G2
+
+    Adding Layer      : GND Layer
 
     Adding Layer      : Multi-Layer
 
@@ -34,105 +63,96 @@ Used DCodes :
     D27
     D28
     D29
+    D30
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 30
-      File : ExperimentBoard.GM30
+Generating : Top Mask
+      File : ExperimentBoard.GTS
 
-    Adding Layer      : Mechanical 30
+    Adding Layer      : Top Mask
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : ExperimentBoard.GM1
+Generating : Board Outline
+      File : ExperimentBoard.GM2
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
+    D59
 *************************************************************
 
 *************************************************************
-Generating : Core
-      File : ExperimentBoard.1
+Generating : PWR Layer
+      File : ExperimentBoard.G1
 
-    Adding Layer      : Core
+    Adding Layer      : PWR Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : ExperimentBoard.GM15
+Generating : Top Paste
+      File : ExperimentBoard.GTP
 
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D56
-    D60
+    D13
 *************************************************************
 
 *************************************************************
-Generating : Dielectric 1
-      File : ExperimentBoard.2
+Generating : Top Layer
+      File : ExperimentBoard.GTL
 
-    Adding Layer      : Dielectric 1
+    Adding Layer      : Top Layer
 
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : ExperimentBoard.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D10
-    D11
-    D56
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : ExperimentBoard.GKO
-
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D12
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : ExperimentBoard.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Dielectric 2
-      File : ExperimentBoard.3
-
-    Adding Layer      : Dielectric 2
-
-
-Used DCodes :
+    D13
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
 *************************************************************
 
 *************************************************************
@@ -162,36 +182,26 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : GND Layer
-      File : ExperimentBoard.G2
+Generating : Top Overlay
+      File : ExperimentBoard.GTO
 
-    Adding Layer      : GND Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
+    D10
+    D11
+    D12
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : ExperimentBoard.GTP
+Generating : Dielectric 2
+      File : ExperimentBoard.3
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Dielectric 2
 
 
 Used DCodes :
-    D13
 *************************************************************
 
 *************************************************************
@@ -230,38 +240,72 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Board Outline
-      File : ExperimentBoard.GM2
+Generating : Mechanical 13
+      File : ExperimentBoard.GM13
 
-    Adding Layer      : Board Outline
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
-    D59
+    D10
+    D11
+    D56
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : ExperimentBoard.GTL
+Generating : Mechanical 30
+      File : ExperimentBoard.GM30
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Mechanical 30
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : ExperimentBoard.2
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : ExperimentBoard.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ExperimentBoard.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : ExperimentBoard.GML
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D12
-    D13
-    D21
-    D22
-    D23
-    D24
     D25
     D26
     D27
     D28
     D29
-    D30
 *************************************************************
 
 *************************************************************
@@ -312,89 +356,45 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Mask
-      File : ExperimentBoard.GBS
+Generating : Mechanical 15
+      File : ExperimentBoard.GM15
 
-    Adding Layer      : Bottom Mask
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Top Mask
-      File : ExperimentBoard.GTS
-
-    Adding Layer      : Top Mask
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : ExperimentBoard.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D12
     D56
-    D57
-    D58
+    D60
 *************************************************************
 
 *************************************************************
-Generating : PWR Layer
-      File : ExperimentBoard.G1
+Generating : Core
+      File : ExperimentBoard.1
 
-    Adding Layer      : PWR Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Core
 
 
 Used DCodes :
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ExperimentBoard.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 40
+      File : ExperimentBoard.GM40
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************

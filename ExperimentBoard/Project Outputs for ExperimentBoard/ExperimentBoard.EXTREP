@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: ExperimentBoard.GBR   2025-05-17  1:16:30 PM
+Gerber File Extension Report For: ExperimentBoard.GBR   2025-05-17  4:03:43 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -28,8 +28,8 @@ Layer Extension     Layer Description
 .GPB                Bottom Pad Master                       
 .3                  Dielectric 2                            
 .GML                Multi-Layer                             
-.1                  Core                                    
 .2                  Dielectric 1                            
+.1                  Core                                    
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
 .GM                 Profile                                 
